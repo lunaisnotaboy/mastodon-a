@@ -1,6 +1,0 @@
----
-fy:
-  simple_form:
-    labels:
-      notification_emails:
-        mention: Ien hat jo fermeld

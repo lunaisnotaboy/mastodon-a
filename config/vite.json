@@ -1,0 +1,20 @@
+{
+  "all": {
+    "assetsDir": "",
+    "sourceCodeDir": "app/frontend",
+    "watchAdditionalPaths": []
+  },
+  "development": {
+    "autoBuild": true,
+    "port": 3036,
+    "publicOutputDir": "packs-dev"
+  },
+  "production": {
+    "publicOutputDir": "packs"
+  },
+  "test": {
+    "autoBuild": true,
+    "port": 3037,
+    "publicOutputDir": "packs-test"
+  }
+}
